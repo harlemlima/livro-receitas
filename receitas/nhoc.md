@@ -1,12 +1,12 @@
 
 
-#Nhoc de Batata
+# Nhoc de Batata
 
  - 6 batatas médias
  - 1 xícara de farinha de trigo
  - sal a gosto
 
-##Molho:</h3></li>
+## Molho:</h3></li>
 
  - 1 lata de molho de tomate
  - 1/2 cebola
